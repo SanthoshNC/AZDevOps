@@ -4,3 +4,5 @@ My To-Do-List
 - Lunch
 - AWS Gen AI Preparation
 - Meeting the friends
+- Dinner
+- Sleep
